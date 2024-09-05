@@ -397,6 +397,10 @@ footer p a {
         margin: 0 auto;
     }
     
+    table{
+        width: 80%;       
+    }
+    
 }
 
 /* Media Query for Print */
