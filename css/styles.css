@@ -285,6 +285,14 @@ footer p a {
         height: 450px;
     }
     
+    /* Tablet Viewport: Style rules dfor table */
+    table{
+        border: 1px solid #000;
+        border-collapse: collapse;
+        margin: 0;
+        width: 100%;
+    }
+    
 }
 
 /* Media Query for Desktop Viewport */
